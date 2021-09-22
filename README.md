@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Vázquez Cruz</h1>
+<h1 align="center">Hi 👋, I'm José Vázquez Cruz</h1>
 <h3 align="center">An aspiring software/web developer</h3>
 
 - 🔭 I’m currently working on [Air BnB Clone](https://github.com/cmdelcarmen/AirBnB_clone_v3)
