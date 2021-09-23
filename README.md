@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at **vazqjose@gmail.com**
 
-- 📄 Here is my resume [https://github.com/vazqjose/vazqjose/blob/main/JOSE%20VAZQUEZ%20RESUME%20HBS.pdf](https://github.com/vazqjose/vazqjose/blob/main/JOSE%20VAZQUEZ%20RESUME%20HBS.pdf)
+- 📄 Here is my [RESUME](https://github.com/vazqjose/vazqjose/blob/main/JOSE%20VAZQUEZ%20RESUME%20HBS.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
