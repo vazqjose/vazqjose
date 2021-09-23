@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python, OOP, API's, C, React and Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vazqjose?tab=repositories](https://github.com/vazqjose?tab=repositories)
+- 👨‍💻 All of my projects are available at [this github](https://github.com/vazqjose?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/vazqjose/detail/recent-activity/shares/](https://www.linkedin.com/in/vazqjose/detail/recent-activity/shares/)
+- 📝 I regularly write articles on my LinkedIn page, [check it out!](https://www.linkedin.com/in/vazqjose/detail/recent-activity/shares/)
 
 - 💬 Ask me about **Web frameworks**
 
