@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/vazqjose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vazqjose" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/vazqjose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vazqjose" height="30" width="40" /></a>
-<a href="https://instagram.com/vazqjose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vazqjose" height="30" width="40" /></a>
 <a href="https://discord.gg/5026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5026" height="30" width="40" /></a>
 </p>
 
