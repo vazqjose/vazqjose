@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Air BnB Clone](https://github.com/cmdelcarmen/AirBnB_clone_v3)
 
-- 🌱 I’m currently learning **Python, OOP, API's, C, React and Docker**
+- 🌱 I’m currently learning **Python, OOP, API's, C, Vue.js, React.js and Firebase**
 
 - 👨‍💻 All of my projects are available at [this github](https://github.com/vazqjose?tab=repositories)
 
 - 📝 I regularly write articles on my LinkedIn page, [check it out!](https://www.linkedin.com/in/vazqjose/detail/recent-activity/shares/)
 
-- 💬 Ask me about **Web frameworks**
+- 💬 Ask me about **Fontend and Web frameworks**
 
 - 📫 You can reach me at **vazqjose@gmail.com**
 
